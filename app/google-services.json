@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970250299308",
+    "firebase_url": "https://cursolivro-56f0e.firebaseio.com",
+    "project_id": "cursolivro-56f0e",
+    "storage_bucket": "cursolivro-56f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970250299308:android:4cab361ee9436a1f",
+        "android_client_info": {
+          "package_name": "br.com.pisaneschi.cursolivro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970250299308-jsk4c5gjrup10t4qf8ce455r7uvpci56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.pisaneschi.cursolivro",
+            "certificate_hash": "35174F0C7DA935EC2CB73EE8CF32E58A10460F15"
+          }
+        },
+        {
+          "client_id": "970250299308-f2s5p9nq5fb9anrspmbjvqcnmupj9heq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPd2XjNML6Ash-jY6URYESvaOIK0ItUY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970250299308-f2s5p9nq5fb9anrspmbjvqcnmupj9heq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
